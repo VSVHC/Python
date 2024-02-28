@@ -14,9 +14,6 @@
 - [Where to get it](#where-to-get-it)
 - [Installation from sources](#installation-from-sources)
 - [Documentation](#documentation)
-- [Getting Help](#getting-help)
-- [Discussion and Development](#discussion-and-development)
-- [Contributing to pandas](#contributing-to-pandas)
 
 ## Main Features
 Here are just a few of the things that Python does well:
